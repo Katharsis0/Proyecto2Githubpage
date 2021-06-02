@@ -14,52 +14,26 @@
 ## Plan de Iteraciones
 [Plan de iteraciones](https://projprog1spaceinvaders.atlassian.net/jira/software/projects/SPAC/boards/1/roadmap)
 ## User Story
-![User story](story.PNG) 
+![User story] ![image](https://user-images.githubusercontent.com/62965634/120426545-878c5e00-c32d-11eb-81eb-b32dc6572027.png)
+
 ## Asignación de Tareas
 - Sebastián:
-  - Diseños:
-     - Imagen Boss colaboración con Adriana
-     - Imagen Enemigos colaboración con Adriana
-  - Lista Enlazada (Single)
-  - Lista Doblemente Enlazada
-  - Pantalla Game Over
-  - Pantalla Ajustes
-  - Clase Basic
-  - Clase A
+  - 
   
   
 - Adriana:
-  - Diseños:
-    - Pantalla Ajustes
-    - Imágenes Enemigos colaboración con Sebastián
-    - Fondos
-    - Imágenes Boss colaboración con Sebastián
-    - Imágenes Nave Jugador
-    - Botones
-    - Láser
-    - Ventana de Juego
-  - Hilera E y animación de la rotación
-  - Gradle
-  - Música
-  - Nave Usuario
-  - Láser
+  - Server
+  - Cliente
+  - Conexion entre server y cliente
+  - Movimiento de las naves de los usuarios 
+  - Disparo de laser de los clientes
+  - Aparicion de las navs enemigas en los clientes 
 
 - Daniel Serrano:
-  - Hilera B
-  - Niveles
-  - Botones(funcionalidad)
-  - Puntos
-  - Lista Circular
-  - Ventana Principal
-  - Ventana de Juego
-  - Hilera C
-  - Cambio aleatorio de clases
+  - 
 
 - Daniel Zúñiga:
-  - Hilera D
-  - Animaciones
-  - Clase Boss
-  - Nave Enemiga
+  - 
 
 # Diseño
 ## Diagrama de Clases Inicial
