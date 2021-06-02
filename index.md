@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# Proyecto Programado 1 Space Invaders
+## Desarrolladores:
+- [Adriana María Calderón Barboza (2020036728)](https://github.com/cuadriante) 
+- [Sebastian Hidalgo Vargas (2019176561)](https://github.com/Katharsis0)
+- [Daniel Serrano Cañas (2019031631)](https://github.com/dansecan25) 
+- [Daniel Andres Zuñiga Barahona (2019043724)](https://github.com/danyazunigab)
 
-You can use the [editor on GitHub](https://github.com/dansecan25/Proyecto2Githubpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Jira
+[Link a Jira](https://projprog1spaceinvaders.atlassian.net/jira/software/projects/SPAC/boards/1)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Repositorio del Proyecto Programado (GitHub)
+[Link al proyecto](https://github.com/dansecan25/Proyecto1-SpaceInvaders)
 
-### Markdown
+## Plan de Iteraciones
+[Plan de iteraciones](https://projprog1spaceinvaders.atlassian.net/jira/software/projects/SPAC/boards/1/roadmap)
+## User Story
+![User story](story.PNG) 
+## Asignación de Tareas
+- Sebastián:
+  - Diseños:
+     - Imagen Boss colaboración con Adriana
+     - Imagen Enemigos colaboración con Adriana
+  - Lista Enlazada (Single)
+  - Lista Doblemente Enlazada
+  - Pantalla Game Over
+  - Pantalla Ajustes
+  - Clase Basic
+  - Clase A
+  
+  
+- Adriana:
+  - Diseños:
+    - Pantalla Ajustes
+    - Imágenes Enemigos colaboración con Sebastián
+    - Fondos
+    - Imágenes Boss colaboración con Sebastián
+    - Imágenes Nave Jugador
+    - Botones
+    - Láser
+    - Ventana de Juego
+  - Hilera E y animación de la rotación
+  - Gradle
+  - Música
+  - Nave Usuario
+  - Láser
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Daniel Serrano:
+  - Hilera B
+  - Niveles
+  - Botones(funcionalidad)
+  - Puntos
+  - Lista Circular
+  - Ventana Principal
+  - Ventana de Juego
+  - Hilera C
+  - Cambio aleatorio de clases
 
-```markdown
-Syntax highlighted code block
+- Daniel Zúñiga:
+  - Hilera D
+  - Animaciones
+  - Clase Boss
+  - Nave Enemiga
 
-# Header 1
-## Header 2
-### Header 3
+# Diseño
+## Diagrama de Clases Inicial
+![Diagrama](Diagrama.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dansecan25/Proyecto2Githubpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Diseño Final
+![Diagrama](Diagrama2.jpeg)
