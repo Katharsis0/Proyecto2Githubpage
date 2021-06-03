@@ -59,5 +59,7 @@
 ## Diagrama de Clases Inicial
 ![image](https://user-images.githubusercontent.com/62965634/120579848-6ab36180-c3e5-11eb-919e-9dc5962c40c2.png)
 ![image](https://user-images.githubusercontent.com/62965634/120580236-0e047680-c3e6-11eb-88d3-50ed473e1b83.png)
+![image](https://user-images.githubusercontent.com/62965634/120582507-cbdd3400-c3e9-11eb-94e0-732234c9c0e1.png)
+
 
 
