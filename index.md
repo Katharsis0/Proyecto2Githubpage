@@ -57,5 +57,5 @@
 
 # Diseño
 ## Diagrama de Clases Inicial
-![Diagrama](Diagrama.png)
+![image](https://user-images.githubusercontent.com/62965634/120579848-6ab36180-c3e5-11eb-919e-9dc5962c40c2.png)
 
