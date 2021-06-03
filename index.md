@@ -27,17 +27,35 @@
   - Conexion entre server y cliente
   - Movimiento de las naves de los usuarios 
   - Disparo de laser de los clientes
-  - Aparicion de las navs enemigas en los clientes 
+  - Aparicion de las naves enemigas en los clientes 
 
 - Daniel Serrano:
-  - 
+  - Animación de las nuevas hileras
+  - Creación de las nuevas hileras árboles
 
 - Daniel Zúñiga:
-  - 
+  - Creación del binary tree y el AVL
+  - Factoría de hileras
+  - Abstract factory de estructuras de datos
+
+
+## Problemas encontrados
+  - Comunicación entre server y cliente 
+  - Implementación de generics en árboles, estos dificultaban trabajar con instancias de naves enemigas
+  - Animación de muerte de las naves enemigas
+  - Al cambiar la generación de hileras se encontraron errores al iniciar las animaciones de los enemigos
+
+
+## Mejoras al proyecto original
+  - Adopción de lenguaje inglés estándar para el nombramiento de clases y métodos
+  - Organización de las clases
+  - Implementación de abstract factory para la creación de estructuras de datos
+  - Se implementó singleton para conexión entre server y cliente
+  - Se implementó una factoría para las hileras enemigas
+  - Optimización del sistema de generación de clases
+  - Favorecimiento de la generación de naves enemigas árboles
 
 # Diseño
 ## Diagrama de Clases Inicial
 ![Diagrama](Diagrama.png)
 
-## Diseño Final
-![Diagrama](Diagrama2.jpeg)
