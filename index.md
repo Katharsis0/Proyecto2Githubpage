@@ -14,7 +14,7 @@
 ## Plan de Iteraciones
 [Plan de iteraciones](https://projprog1spaceinvaders.atlassian.net/jira/software/projects/SPAC/boards/1/roadmap)
 ## User Story
-![User story] ![image](https://user-images.githubusercontent.com/62965634/120426545-878c5e00-c32d-11eb-81eb-b32dc6572027.png)
+![image](https://user-images.githubusercontent.com/62965634/120426545-878c5e00-c32d-11eb-81eb-b32dc6572027.png)
 
 ## Asignación de Tareas
 - Sebastián:
