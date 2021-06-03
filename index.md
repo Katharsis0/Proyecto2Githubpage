@@ -18,7 +18,7 @@
 
 ## Asignación de Tareas
 - Sebastián:
-  - 
+  - Detección de colisión de laser y nave enemiga 
   
   
 - Adriana:
